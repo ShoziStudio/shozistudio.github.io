@@ -4,6 +4,9 @@ google.com, pub-7032443966917895, DIRECT, f08c47fec0942fa0
 # Pangle
 pangleglobal.com, 5042453, DIRECT
 
+#Meta
+facebook.com, 1478037877584438, DIRECT, c3e20eee3f780d68
+
 # Unity
 unity.com, 7716031, DIRECT, 96cabb5fbdde37a7
 aceex.io, 2577, RESELLER, b1cf3c874d5c6682
